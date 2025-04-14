@@ -1,0 +1,50 @@
+D:\DATA STRUCTURE AND ALGORITHM\HanoiTowerWinForm\HanoiTowerWinForm\bin\Debug\net9.0-windows\HanoiTowerWinForm.exe
+D:\DATA STRUCTURE AND ALGORITHM\HanoiTowerWinForm\HanoiTowerWinForm\bin\Debug\net9.0-windows\HanoiTowerWinForm.deps.json
+D:\DATA STRUCTURE AND ALGORITHM\HanoiTowerWinForm\HanoiTowerWinForm\bin\Debug\net9.0-windows\HanoiTowerWinForm.runtimeconfig.json
+D:\DATA STRUCTURE AND ALGORITHM\HanoiTowerWinForm\HanoiTowerWinForm\bin\Debug\net9.0-windows\HanoiTowerWinForm.dll
+D:\DATA STRUCTURE AND ALGORITHM\HanoiTowerWinForm\HanoiTowerWinForm\bin\Debug\net9.0-windows\HanoiTowerWinForm.pdb
+D:\DATA STRUCTURE AND ALGORITHM\HanoiTowerWinForm\HanoiTowerWinForm\obj\Debug\net9.0-windows\HanoiTowerWinForm.Form1.resources
+D:\DATA STRUCTURE AND ALGORITHM\HanoiTowerWinForm\HanoiTowerWinForm\obj\Debug\net9.0-windows\HanoiTowerWinForm.csproj.GenerateResource.cache
+D:\DATA STRUCTURE AND ALGORITHM\HanoiTowerWinForm\HanoiTowerWinForm\obj\Debug\net9.0-windows\HanoiTowerWinForm.GeneratedMSBuildEditorConfig.editorconfig
+D:\DATA STRUCTURE AND ALGORITHM\HanoiTowerWinForm\HanoiTowerWinForm\obj\Debug\net9.0-windows\HanoiTowerWinForm.AssemblyInfoInputs.cache
+D:\DATA STRUCTURE AND ALGORITHM\HanoiTowerWinForm\HanoiTowerWinForm\obj\Debug\net9.0-windows\HanoiTowerWinForm.AssemblyInfo.cs
+D:\DATA STRUCTURE AND ALGORITHM\HanoiTowerWinForm\HanoiTowerWinForm\obj\Debug\net9.0-windows\HanoiTowerWinForm.csproj.CoreCompileInputs.cache
+D:\DATA STRUCTURE AND ALGORITHM\HanoiTowerWinForm\HanoiTowerWinForm\obj\Debug\net9.0-windows\HanoiTowerWinForm.dll
+D:\DATA STRUCTURE AND ALGORITHM\HanoiTowerWinForm\HanoiTowerWinForm\obj\Debug\net9.0-windows\refint\HanoiTowerWinForm.dll
+D:\DATA STRUCTURE AND ALGORITHM\HanoiTowerWinForm\HanoiTowerWinForm\obj\Debug\net9.0-windows\HanoiTowerWinForm.pdb
+D:\DATA STRUCTURE AND ALGORITHM\HanoiTowerWinForm\HanoiTowerWinForm\obj\Debug\net9.0-windows\HanoiTowerWinForm.genruntimeconfig.cache
+D:\DATA STRUCTURE AND ALGORITHM\HanoiTowerWinForm\HanoiTowerWinForm\obj\Debug\net9.0-windows\ref\HanoiTowerWinForm.dll
+F:\Do an CTDL GT\HanoiTowerWinForm\HanoiTowerWinForm\obj\Debug\net9.0-windows\HanoiTowerWinForm.Form1.resources
+F:\Do an CTDL GT\HanoiTowerWinForm\HanoiTowerWinForm\obj\Debug\net9.0-windows\HanoiTowerWinForm.csproj.GenerateResource.cache
+F:\Do an CTDL GT\HanoiTowerWinForm\HanoiTowerWinForm\obj\Debug\net9.0-windows\HanoiTowerWinForm.GeneratedMSBuildEditorConfig.editorconfig
+F:\Do an CTDL GT\HanoiTowerWinForm\HanoiTowerWinForm\obj\Debug\net9.0-windows\HanoiTowerWinForm.AssemblyInfoInputs.cache
+F:\Do an CTDL GT\HanoiTowerWinForm\HanoiTowerWinForm\obj\Debug\net9.0-windows\HanoiTowerWinForm.AssemblyInfo.cs
+F:\Do an CTDL GT\HanoiTowerWinForm\HanoiTowerWinForm\obj\Debug\net9.0-windows\HanoiTowerWinForm.csproj.CoreCompileInputs.cache
+F:\Do an CTDL GT\HanoiTowerWinForm\HanoiTowerWinForm\obj\Debug\net9.0-windows\HanoiTowerWinForm.dll
+F:\Do an CTDL GT\HanoiTowerWinForm\HanoiTowerWinForm\obj\Debug\net9.0-windows\refint\HanoiTowerWinForm.dll
+F:\Do an CTDL GT\HanoiTowerWinForm\HanoiTowerWinForm\obj\Debug\net9.0-windows\HanoiTowerWinForm.pdb
+F:\Do an CTDL GT\HanoiTowerWinForm\HanoiTowerWinForm\bin\Debug\net9.0-windows\HanoiTowerWinForm.exe
+F:\Do an CTDL GT\HanoiTowerWinForm\HanoiTowerWinForm\bin\Debug\net9.0-windows\HanoiTowerWinForm.deps.json
+F:\Do an CTDL GT\HanoiTowerWinForm\HanoiTowerWinForm\bin\Debug\net9.0-windows\HanoiTowerWinForm.runtimeconfig.json
+F:\Do an CTDL GT\HanoiTowerWinForm\HanoiTowerWinForm\bin\Debug\net9.0-windows\HanoiTowerWinForm.dll
+F:\Do an CTDL GT\HanoiTowerWinForm\HanoiTowerWinForm\bin\Debug\net9.0-windows\HanoiTowerWinForm.pdb
+F:\Do an CTDL GT\HanoiTowerWinForm\HanoiTowerWinForm\obj\Debug\net9.0-windows\HanoiTowerWinForm.genruntimeconfig.cache
+F:\Do an CTDL GT\HanoiTowerWinForm\HanoiTowerWinForm\obj\Debug\net9.0-windows\ref\HanoiTowerWinForm.dll
+D:\DATA STRUCTURE AND ALGORITHM\CTDL GT KTHP\HanoiTowerWinForm\HanoiTowerWinForm\bin\Debug\net9.0-windows\HanoiTowerWinForm.exe
+D:\DATA STRUCTURE AND ALGORITHM\CTDL GT KTHP\HanoiTowerWinForm\HanoiTowerWinForm\bin\Debug\net9.0-windows\HanoiTowerWinForm.deps.json
+D:\DATA STRUCTURE AND ALGORITHM\CTDL GT KTHP\HanoiTowerWinForm\HanoiTowerWinForm\bin\Debug\net9.0-windows\HanoiTowerWinForm.runtimeconfig.json
+D:\DATA STRUCTURE AND ALGORITHM\CTDL GT KTHP\HanoiTowerWinForm\HanoiTowerWinForm\bin\Debug\net9.0-windows\HanoiTowerWinForm.dll
+D:\DATA STRUCTURE AND ALGORITHM\CTDL GT KTHP\HanoiTowerWinForm\HanoiTowerWinForm\bin\Debug\net9.0-windows\HanoiTowerWinForm.pdb
+D:\DATA STRUCTURE AND ALGORITHM\CTDL GT KTHP\HanoiTowerWinForm\HanoiTowerWinForm\obj\Debug\net9.0-windows\HanoiTowerWinForm.Form1.resources
+D:\DATA STRUCTURE AND ALGORITHM\CTDL GT KTHP\HanoiTowerWinForm\HanoiTowerWinForm\obj\Debug\net9.0-windows\HanoiTowerWinForm.csproj.GenerateResource.cache
+D:\DATA STRUCTURE AND ALGORITHM\CTDL GT KTHP\HanoiTowerWinForm\HanoiTowerWinForm\obj\Debug\net9.0-windows\HanoiTowerWinForm.GeneratedMSBuildEditorConfig.editorconfig
+D:\DATA STRUCTURE AND ALGORITHM\CTDL GT KTHP\HanoiTowerWinForm\HanoiTowerWinForm\obj\Debug\net9.0-windows\HanoiTowerWinForm.AssemblyInfoInputs.cache
+D:\DATA STRUCTURE AND ALGORITHM\CTDL GT KTHP\HanoiTowerWinForm\HanoiTowerWinForm\obj\Debug\net9.0-windows\HanoiTowerWinForm.AssemblyInfo.cs
+D:\DATA STRUCTURE AND ALGORITHM\CTDL GT KTHP\HanoiTowerWinForm\HanoiTowerWinForm\obj\Debug\net9.0-windows\HanoiTowerWinForm.csproj.CoreCompileInputs.cache
+D:\DATA STRUCTURE AND ALGORITHM\CTDL GT KTHP\HanoiTowerWinForm\HanoiTowerWinForm\obj\Debug\net9.0-windows\HanoiTowerWinForm.dll
+D:\DATA STRUCTURE AND ALGORITHM\CTDL GT KTHP\HanoiTowerWinForm\HanoiTowerWinForm\obj\Debug\net9.0-windows\refint\HanoiTowerWinForm.dll
+D:\DATA STRUCTURE AND ALGORITHM\CTDL GT KTHP\HanoiTowerWinForm\HanoiTowerWinForm\obj\Debug\net9.0-windows\HanoiTowerWinForm.pdb
+D:\DATA STRUCTURE AND ALGORITHM\CTDL GT KTHP\HanoiTowerWinForm\HanoiTowerWinForm\obj\Debug\net9.0-windows\HanoiTowerWinForm.genruntimeconfig.cache
+D:\DATA STRUCTURE AND ALGORITHM\CTDL GT KTHP\HanoiTowerWinForm\HanoiTowerWinForm\obj\Debug\net9.0-windows\ref\HanoiTowerWinForm.dll
+D:\DATA STRUCTURE AND ALGORITHM\CTDL GT KTHP\HanoiTowerWinForm\HanoiTowerWinForm\obj\Debug\net9.0-windows\HanoiTowerWinForm.Properties.Resources.resources
+D:\DATA STRUCTURE AND ALGORITHM\CTDL GT KTHP\HanoiTowerWinForm\HanoiTowerWinForm\obj\Debug\net9.0-windows\HanoiTowerWinForm.sourcelink.json
