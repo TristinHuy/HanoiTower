@@ -1,0 +1,112 @@
+namespace HanoiTowerAlgorithm
+{
+    class TowerOfHanoiRecursive
+    {
+        static Dictionary<char, Stack<int>> towers;
+
+        static void PrintTowers()
+        {
+            Console.Clear();
+            int maxHeight = 0;
+            foreach (var tower in towers.Values)
+                maxHeight = Math.Max(maxHeight, tower.Count);
+
+            List<int>[] towerArrays = new List<int>[3] {
+            new List<int>(towers['A']),
+            new List<int>(towers['B']),
+            new List<int>(towers['C'])
+        };
+
+            for (int i = 0; i < maxHeight; i++)
+            {
+                for (int j = 0; j < 3; j++)
+                {
+                    if (towerArrays[j].Count > i)
+                        Console.Write($" {towerArrays[j][i],-2} ");
+                    else
+                        Console.Write("    ");
+                }
+                Console.WriteLine();
+            }
+            Console.WriteLine("----------------");
+            Console.WriteLine(" A    B    C");
+            System.Threading.Thread.Sleep(100);
+        }
+
+        static void SolveHanoiRecursive(int n, char from, char to, char aux)
+        {
+            if (n == 1)
+            {
+                int disk = towers[from].Pop();
+                towers[to].Push(disk);
+                PrintTowers();
+                return;
+            }
+
+            SolveHanoiRecursive(n - 1, from, aux, to);
+
+            int movedDisk = towers[from].Pop();
+            towers[to].Push(movedDisk);
+            PrintTowers();
+
+            SolveHanoiRecursive(n - 1, aux, to, from);
+        }
+
+        static void SolveHanoiIterative(int n, char from, char to, char aux)
+        {
+            Stack<Tuple<int, char, char, char>> stack = new Stack<Tuple<int, char, char, char>>();
+            stack.Push(Tuple.Create(n, from, to, aux));
+
+            while (stack.Count > 0)
+            {
+                var current = stack.Pop();
+                int disk = current.Item1;
+                char src = current.Item2, dest = current.Item3, helper = current.Item4;
+
+                if (disk == 1)
+                {
+                    towers[dest].Push(towers[src].Pop());
+                    PrintTowers();
+                }
+                else
+                {
+                    stack.Push(Tuple.Create(disk - 1, helper, dest, src)); // Di chuyển n-1 đĩa từ trung gian -> đích
+                    stack.Push(Tuple.Create(1, src, dest, helper));        // Di chuyển đĩa lớn nhất từ nguồn -> đích
+                    stack.Push(Tuple.Create(disk - 1, src, helper, dest)); // Di chuyển n-1 đĩa từ nguồn -> trung gian
+                }
+            }
+        }
+
+        static void Main()
+        {
+            Console.Write("Nhap so luong dia: ");
+            int n = int.Parse(Console.ReadLine());
+
+            towers = new Dictionary<char, Stack<int>>()
+        {
+            { 'A', new Stack<int>() },
+            { 'B', new Stack<int>() },
+            { 'C', new Stack<int>() }
+        };
+
+            for (int i = n; i >= 1; i--)
+                towers['A'].Push(i);
+
+            PrintTowers();
+
+            Console.Write("Chon phuong phap (1: De quy, 2: Stack phi de quy): ");
+            int choice = int.Parse(Console.ReadLine());
+
+            if (choice == 1)
+            {
+                SolveHanoiRecursive(n, 'A', 'C', 'B');
+            }
+            else
+            {
+                SolveHanoiIterative(n, 'A', 'C', 'B');
+            }
+        }
+    }
+
+}
+
